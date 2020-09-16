@@ -60,3 +60,7 @@ we truncate to 6 decimal places so that the result used for production is the sa
 See
 [https://cloud.google.com/bigquery/docs/reference/standard-sql/aggregate_functions](https://cloud.google.com/bigquery/docs/reference/standard-sql/aggregate_functions)
 for more information.
+
+### Final results
+
+The blob containing all the proofs of the retroactive distribution can be found at [mrkl.uniswap.org](https://mrkl.uniswap.org).
