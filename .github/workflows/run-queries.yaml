@@ -47,6 +47,7 @@ jobs:
           - file: "./src/09_all_earnings.sql"
           - file: "./src/10_all_earnings_hexadecimal.sql"
           - file: "./src/11_sanity_checks.sql"
+          - file: "./src/12_candidate_proxy_airdrop_accounts.sql"
 
     steps:
       - uses: actions/checkout@v2
