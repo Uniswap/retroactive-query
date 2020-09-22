@@ -2,7 +2,7 @@
 
 [![Run Queries](https://github.com/Uniswap/retroactive-query/workflows/Run%20Queries/badge.svg)](https://github.com/Uniswap/retroactive-query/actions?query=workflow%3A%22Run+Queries%22)
 
-This repository contains queries that produce the tables of retroactive UNI token distributions. It also contains a query to produce the set of all "proxy" accounts that were not included in the initial UNI token distribution.
+This repository contains queries that produce the tables of retroactive UNI token distributions.
 
 The queries run in [Google BigQuery](https://cloud.google.com/bigquery) against the 
 [`bigquery-public-data.crypto_ethereum`](https://console.cloud.google.com/bigquery?p=bigquery-public-data&d=crypto_ethereum&page=dataset) 
